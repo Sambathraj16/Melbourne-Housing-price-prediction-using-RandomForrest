@@ -1,2 +1,2 @@
-# Melbourne-Housing-price-prediction-using-RandomForrest
+# Melbourne-House-price-prediction-using-RandomForrest
 House price in Melbourne - Australia has predicted using RandomForest
